@@ -52,7 +52,7 @@
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=B-professional&style=flat-square&color=blue" />
 </p>
 
 ---
