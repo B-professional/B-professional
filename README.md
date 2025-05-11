@@ -12,7 +12,7 @@
 - 🛠️ Skilled in **CI/CD**, **Docker**, **Linux**, and basic **Kubernetes**
 - 📡 Currently expanding skills in **Cloud Infrastructure & DevOps**
 - 🎓 B.Sc. in Computer Science | 💼 Working at **3i Infotech**
-- 🗃️ 3.8+ years of experience in IT & Technical Support
+- 🗃️ 3.8+ years of experience in IT & Technical 
 - 📍 Based in India
 
 ---
